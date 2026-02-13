@@ -6,7 +6,7 @@ print(f"{x/y:,.6f}")"""
 without type casting it concatenates the two variables and using that gives the exact answer 
 """
 def main():
-    x = int(input("Enter the vlaue of x :"))
+    x = (input("Enter the vlaue of x :"))
     z = modulo(x)
     print(f"the modulo of {x} is {z}")
 
