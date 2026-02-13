@@ -8,6 +8,6 @@ y = int(input("Enter the value of y :"))
 #     print(f"Both variables are same")     
 # 
 if x > y or y > x : 
-    print("Not same")
+    print("Not same output")
 else : 
     print("Congruent")    
